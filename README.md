@@ -3,11 +3,6 @@
 ## Live site
 [![Live site](readme_images/guide-site.png)](https://dice-nft.com)
 
-## Contact info
-- **Email:** mr.new0509@gmail.com
-- **Telegram:** [@mrnew0509](https://t.me/mrnew0509)
-- **Skype:** [@sin085](https://join.skype.com/invite/xat3AgpiRVOI)
-
 ## Release date
 Aug 5, 2022
 
